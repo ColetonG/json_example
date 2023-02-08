@@ -1,0 +1,11 @@
+{ "title" : "Greek Gods",
+  "origin" : "Greece",
+  "timePeriod" : "900 b.c. to 800 b.c.",
+  "gods":[  
+    {"name":"Zues", "title":"God of the Sky", "abilities": ["shapeshifting","weather control","time control"]},  
+    {"name":"Poseidon", "title":"God of the Sea", "abilities": ["atmokenesis","marine life communication","weather control"]},  
+    {"name":"Aphrodite", "title":"Goddess of Love", "abilities": ["shapeshifting","love manipultion"]},
+    {"name":"Hades", "title":"God of the Underwold", "abilities": ["invisibility","super strength","soul manipulation"]},
+    {"name":"Demeter", "title":"God of Harvest", "abilities": ["crop manipulation","weather control","hunger infliction"]}
+    ]}
+  }
