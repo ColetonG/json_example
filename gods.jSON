@@ -7,5 +7,5 @@
     {"name":"Aphrodite", "title":"Goddess of Love", "abilities": ["shapeshifting","love manipultion"]},
     {"name":"Hades", "title":"God of the Underwold", "abilities": ["invisibility","super strength","soul manipulation"]},
     {"name":"Demeter", "title":"God of Harvest", "abilities": ["crop manipulation","weather control","hunger infliction"]}
-    ]}
-  }
+    ]
+}
